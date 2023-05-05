@@ -1,4 +1,4 @@
-# Lauris basseng guide
+# Lauris pool guide
 
 A website with a step-by-step guide explaining how to open the pool in the Haram's summer house in Lauris, France. 
 
